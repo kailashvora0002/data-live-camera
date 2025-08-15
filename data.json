@@ -1,44 +1,44 @@
 [
-    {
-      title: 'Shibuya Crossing, Tokyo, Japan',
-      youtubeId: '_k-5U7IeK8g', // Thay bằng ID thực nếu tìm được
-      latitude: 35.6595,
-      longitude: 139.7005,
-    },
-    {
-      title: 'Times Square, New York, USA',
-      youtubeId: 'rnXIjl_Rzy4',
-      latitude: 40.758,
-      longitude: -73.9855,
-    },
-    {
-      title: 'Venice Beach, California, USA',
-      youtubeId: 'Ddqx_vSnC3w',
-      latitude: 33.985,
-      longitude: -118.4695,
-    },
-    {
-      title: 'Santa Monica Pier, California, USA',
-      youtubeId: 'D1aK0evgB3Q',
-      latitude: 34.0094,
-      longitude: -118.4973,
-    },
-    {
-      title: 'Miami Beach, Florida, USA',
-      youtubeId: 'YFiWfBxb31Q',
-      latitude: 25.7907,
-      longitude: -80.13,
-    },
-    {
-      title: 'Las Vegas Strip, Nevada, USA',
-      youtubeId: '3LXQWU67Ufk',
-      latitude: 36.1147,
-      longitude: -115.1728,
-    },
-    {
-      title: 'Waikiki Beach, Hawaii, USA',
-      youtubeId: 'mrcOopLM',
-      latitude: 21.281,
-      longitude: -157.8374,
-    },
-  ]
+  {
+    "title": "Shibuya Crossing, Tokyo, Japan",
+    "youtubeId": "_k-5U7IeK8g",
+    "latitude": 35.6595,
+    "longitude": 139.7005
+  },
+  {
+    "title": "Times Square, New York, USA",
+    "youtubeId": "rnXIjl_Rzy4",
+    "latitude": 40.758,
+    "longitude": -73.9855
+  },
+  {
+    "title": "Venice Beach, California, USA",
+    "youtubeId": "Ddqx_vSnC3w",
+    "latitude": 33.985,
+    "longitude": -118.4695
+  },
+  {
+    "title": "Santa Monica Pier, California, USA",
+    "youtubeId": "D1aK0evgB3Q",
+    "latitude": 34.0094,
+    "longitude": -118.4973
+  },
+  {
+    "title": "Miami Beach, Florida, USA",
+    "youtubeId": "YFiWfBxb31Q",
+    "latitude": 25.7907,
+    "longitude": -80.13
+  },
+  {
+    "title": "Las Vegas Strip, Nevada, USA",
+    "youtubeId": "3LXQWU67Ufk",
+    "latitude": 36.1147,
+    "longitude": -115.1728
+  },
+  {
+    "title": "Waikiki Beach, Hawaii, USA",
+    "youtubeId": "mrcOopLM",
+    "latitude": 21.281,
+    "longitude": -157.8374
+  }
+]
